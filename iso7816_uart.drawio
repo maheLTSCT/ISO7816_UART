@@ -269,7 +269,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JfN-F9u1lIXkMxn4T3u5" name="uart_7816_block diagram">
-    <mxGraphModel dx="1577" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2027" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,6 +611,9 @@
         </mxCell>
         <mxCell id="x0mu9h9WnTYOmCHxIGea-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ip_dig_uart_7816_syn&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="945" y="27" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x0mu9h9WnTYOmCHxIGea-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;cfg input filter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="806.5" y="574.5" width="89" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
